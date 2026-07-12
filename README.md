@@ -129,6 +129,7 @@ Working on enterprise-grade applications, including:
   <img src="https://img.shields.io/badge/Email-haddynata12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
+
 </div>
 
 ---
