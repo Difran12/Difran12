@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Difran Hadi Nata
+# Hei yoo, I'm Difran Hadi Nata
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Experienced+Software+Engineer;ERP+Application+Developer;.NET+%7C+C%23+%7C+DevExpress+XAF%2FXPO;AI-Assisted+Coding+Enthusiast" alt="Typing SVG" />
 
