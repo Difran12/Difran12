@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Difran12&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -109,9 +109,9 @@ Working on enterprise-grade applications, including:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Difran12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Difran12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
