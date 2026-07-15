@@ -38,7 +38,7 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 I focus on designing, developing, and optimizing **Enterprise Resource Planning (ERP)** applications for company-scale operations. Currently, I work as an **IT Programmer** since **April 2024**, building ERP solutions such as **Blinc**, asset management systems, and document control systems using **.NET**, **C#**, and **DevExpress XAF/XPO**.
 
-My development workflow combines strong fundamentals in software engineering with **AI-assisted coding** tools such as **GitHub Copilot**, **OpenAI Codex**, **ChatGPT**, and **Gemini Code Assist** to improve productivity, code quality, debugging, and system design.
+My development workflow combines strong fundamentals in software engineering with **AI-assisted coding** tools such as **Claude**, **Replit**, **Cursor**, **OpenAI Codex**, and **Gemini Code Assist** to improve productivity, code quality, debugging, and system design.
 
 ---
 
