@@ -4,7 +4,7 @@
 
 # Hi, I'm Difran Hadi Nata
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Experienced+Software+Engineer;ERP+Application+Developer;.NET+%7C+C%23+%7C+DevExpress+XAF%2FXPO;AI-Assisted+Coding+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Experienced+Software+Engineer;ERP+Application+Developer;.NET+%7C+C%23+%7C+DevExpress+XAF%2FXPO;" alt="Typing SVG" />
 
 <p>
   <strong>Building scalable ERP systems, optimizing enterprise workflows, and crafting reliable software with modern engineering practices.</strong>
@@ -24,7 +24,7 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 I focus on designing, developing, and optimizing **Enterprise Resource Planning (ERP)** applications for company-scale operations. Currently, I work as an **IT Programmer** since **April 2024**, building ERP solutions such as **Blinc**, asset management systems, and document control systems using **.NET**, **C#**, and **DevExpress XAF/XPO**.
 
-My development workflow combines strong fundamentals in software engineering with **AI-assisted coding** tools such as **GitHub Copilot**, **OpenAI Codex**, **ChatGPT**, and **Gemini Code Assist** to improve productivity, code quality, debugging, and system design.
+My development workflow combines strong fundamentals in software engineering with **AI-assisted coding** tools such as **Claude**, **Replit**, **Cursor**, **OpenAI Codex**, and **Gemini Code Assist** to improve productivity, code quality, debugging, and system design.
 
 ---
 
@@ -61,9 +61,8 @@ My development workflow combines strong fundamentals in software engineering wit
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress" />
   <img src="https://img.shields.io/badge/XAF%20%2F%20XPO-1F2937?style=for-the-badge&logo=.net&logoColor=white" alt="XAF XPO" />
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini%20Code%20Assist-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Code Assist" />
 </p>
 
