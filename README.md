@@ -121,7 +121,7 @@ Working on enterprise-grade applications, including:
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Working on enterprise-grade applications, including:
 
 </div>
 
----
+--- -->
 
 ## Connect with Me
 
