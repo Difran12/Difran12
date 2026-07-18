@@ -51,18 +51,35 @@ My development workflow combines strong fundamentals in software engineering wit
   <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
 </p>
 
-### Frameworks & Tools
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,git,github,visualstudio,vscode" alt="Frameworks and Tools" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress" />
   <img src="https://img.shields.io/badge/XAF%20%2F%20XPO-1F2937?style=for-the-badge&logo=.net&logoColor=white" alt="XAF XPO" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,visualstudio,vscode" alt="DevOps and Tools" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" />
+</p>
+
+### AI-Assisted Development
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-F9AB00?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor" />
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini%20Code%20Assist-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Code Assist" />
 </p>
 
@@ -108,9 +125,9 @@ Working on enterprise-grade applications, including:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Difran12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Difran12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Difran12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Difran12&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
 
