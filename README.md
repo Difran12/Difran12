@@ -115,9 +115,8 @@ Working on enterprise-grade applications, including:
 
 **Bachelor of Informatics**  
 **Universitas Dehasen Bengkulu**
-
 - Graduated **Cum Laude**
-- GPA: **3.86**
+
 
 ---
 
