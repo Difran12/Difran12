@@ -126,6 +126,6 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 <br><br>
 
-<sub>Crafting reliable enterprise software and modern fullstack experiences with clean architecture, resilient databases, and AI-powered productivity.</sub>
+<sub>Crafting reliable enterprise software and modern fullstack experiences with clean architecture, resilient databases, and AI-powered workflows.</sub>
 
 </div>
