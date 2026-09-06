@@ -25,7 +25,7 @@
 I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengkulu, Indonesia**.
 
 - 💼 **Fullstack Developer** since **April 2024**, designing and maintaining company-scale ERP systems (**Blinc ERP**, asset management, and document control) with **.NET**, **C#**, **DevExpress XAF/XPO**, and **SQL Server**.
-- 🌐 Engineering modern web platforms like **[Moneta](https://github.com/Difran12/moneta-web)** (personal finance & cashflow analytics) using **React 19**, **Vite**, and **Firebase**.
+- 🌐 Engineering modern web platforms like **Moneta** (personal finance & cashflow analytics) using **React 19**, **Vite**, and **Firebase**.
 - 📱 Building offline-first mobile applications using **Flutter**, **Dart**, and **Riverpod**.
 - 🎓 **Bachelor of Informatics** from **Universitas Dehasen Bengkulu** (Graduated **Cum Laude**).
 - 🤖 Leveraging an **AI-assisted development workflow** (Google Antigravity, Claude, Cursor, ChatGPT, Gemini) for fast, clean, and reliable delivery.
@@ -34,7 +34,7 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 ## 🚀 Featured Projects
 
-- 💎 **[Moneta — Personal Finance Platform](https://github.com/Difran12/moneta-web)**  
+- 💎 **Moneta — Personal Finance Platform**  
   Modern personal finance & cashflow analytics platform with multi-timeframe reports (Daily/Weekly/Monthly/Yearly), glowing trend charts, smart currency formatting with cursor preservation, and Cloud Firestore sync.  
   `React 19` • `Vite` • `Firebase` • `Recharts` • `Lucide`
 
@@ -42,15 +42,19 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
   Enterprise Resource Planning suite covering corporate asset management, document control workflows, role-based security, and high-performance SQL Server optimization.  
   `.NET` • `C#` • `DevExpress XAF/XPO` • `SQL Server`
 
-- 🚅 **[Shinkansen Ticket Reservation](https://github.com/Difran12/Shinkansen-Ticket-Reservation-System)**  
+- ⚙️ **Mecha — Equipment Maintenance System**  
+  Industrial heavy machinery maintenance management platform featuring operational hour tracking (HM), rotable item lifecycle management, work orders, and multi-company enterprise RBAC.  
+  `React` • `TypeScript` • `Node.js` • `Express` • `PostgreSQL` • `Drizzle ORM` • `Tailwind CSS`
+
+- 🚅 **Shinkansen Ticket Reservation**  
   High-speed rail booking and seat reservation management system with transactional data integrity.  
   `.NET` • `C#` • `Desktop / Architecture`
 
-- ☕ **[Kopi Kenanga F&B System](https://github.com/Difran12/Kopi-Kenanga-F-B-System)**  
+- ☕ **Kopi Kenanga F&B System**  
   Food & Beverage ordering, dynamic menu management, and POS workflow application.  
   `TypeScript` • `JavaScript` • `React / Web`
 
-- ☸️ **[Cloud-Native .NET & Kubernetes](https://github.com/Difran12/dotnet-k8s-project)**  
+- ☸️ **Cloud-Native .NET & Kubernetes**  
   Containerized enterprise .NET microservices deployment with Docker and Kubernetes cluster manifests.  
   `C#` • `.NET` • `Docker` • `Kubernetes`
 
@@ -58,7 +62,7 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
   Offline-first mobile finance tracker with Feature-First Architecture, local SQLite storage, and visual expense analytics.  
   `Flutter` • `Dart` • `SQLite` • `Riverpod`
 
-- 📊 **[Data Analytics Capstone](https://github.com/Difran12/Final-Project-MySkill)**  
+- 📊 **Data Analytics Capstone**  
   End-to-end exploratory data analysis, business metric aggregation, and interactive visualization dashboards.  
   `Python` • `SQL` • `Pandas` • `Data Analytics`
 
@@ -75,7 +79,7 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 ### Frameworks, Libraries & Platforms
 <p>
-  <img height="30" src="https://skillicons.dev/icons?i=dotnet,react,vite,flutter,firebase" alt="Frameworks & Libraries" />
+  <img height="30" src="https://skillicons.dev/icons?i=dotnet,react,vite,flutter,nodejs,express,firebase" alt="Frameworks & Libraries" />
   <img height="22" src="https://img.shields.io/badge/DevExpress-FF7200?style=flat-square&logo=devexpress&logoColor=white" alt="DevExpress" />
   <img height="22" src="https://img.shields.io/badge/XAF%20%2F%20XPO-1F2937?style=flat-square&logo=.net&logoColor=white" alt="XAF XPO" />
   <img height="22" src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" alt="Recharts" />
@@ -89,7 +93,7 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 ### Databases & Persistence
 <p>
-  <img height="30" src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
+  <img height="30" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="Databases" />
   <img height="22" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img height="22" src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore" />
 </p>
@@ -104,17 +108,6 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
   <img height="22" src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img height="22" src="https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white" alt="Replit" />
 </p>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="150" src="https://streak-stats.demolab.com?user=Difran12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ## 📬 Connect with Me
