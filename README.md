@@ -26,9 +26,9 @@ I am **Difran Hadi Nata**, an **Experienced Software Engineer** based in **Bengk
 
 - 💼 **Fullstack Developer** since **April 2024**, designing and maintaining company-scale ERP systems (**Blinc ERP**, asset management, and document control) with **.NET**, **C#**, **DevExpress XAF/XPO**, and **SQL Server**.
 - 🌐 Engineering modern web platforms like **Moneta** (personal finance & cashflow analytics) using **React 19**, **Vite**, and **Firebase**.
-- 📱 Building offline-first mobile applications using **Flutter**, **Dart**, and **Riverpod**.
+- 📱 Building mobile applications using **Flutter**, **Dart**, and **Riverpod**.
 - 🎓 **Bachelor of Informatics** from **Universitas Dehasen Bengkulu** (Graduated **Cum Laude**).
-- 🤖 Leveraging an **AI-assisted development workflow** (Google Antigravity, Claude, Cursor, ChatGPT, Gemini) for fast, clean, and reliable delivery.
+- 🤖 Leveraging an **AI-assisted development workflow** (Google Antigravity, Claude, Cursor, Codex, Replit) for fast, clean, and reliable delivery.
 
 ---
 
